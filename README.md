@@ -4,9 +4,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on building some nice websites ...
-- 🌱 I’m currently learning SCSS, JS, REACT.JS
-- 👯 I’m looking to collaborate on front-end projects
-- 🤔 I’m looking for help with front-end
+- 🌱 I’m currently learning Gatsby, Nodejs, MongoDB
+- 👯 I’m looking to collaborate on full stack projects
+- 🤔 I’m looking for help with both front-end and back-end
 
 ### Languages and Tools:
 
